@@ -7,7 +7,7 @@
 - Tools: Google Sheets, Google Slides, Data Studio
 
 ## Prepare phase
-Downloaded the data from lichess.org. The games were in .pgn format, so i found
+Downloaded the data from lichess.org. The games were in .pgn format, so I found
 a cool script to import them in google sheets!
 
 ## Process Phase
@@ -31,4 +31,7 @@ Here's is some images.
 
 ### 3) Openings as White
 ![Opening as white](Images/Opening_as_White.png)
+
+## Share Phase
+To Share the results I created a **[presentation](https://github.com/DimKaisaris/Student-Chess-Games/blob/main/Presentation/Rapid%20Games%20presentation(%20tzimask).pptx)
 
