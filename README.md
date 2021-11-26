@@ -23,5 +23,5 @@ To extract valuable information, many simple and advanced functions were used. M
 Take a look at the final spreadsheet as uploaded in .xlsx format if you wish **[Rapid Games(K. Tzimas)](https://github.com/DimKaisaris/Student-Chess-Games/blob/main/Processed%20Files/Rapid%20Games%20(K.%20Tzimas).xlsx)**
 Here's is some images from charts and pivots.
 
-1)### Elo Graph
+### 1)Elo Graph
 
