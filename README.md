@@ -33,5 +33,5 @@ Here's is some images.
 ![Opening as white](Images/Opening_as_White.png)
 
 ## Share Phase
-To Share the results I created a **[presentation](https://github.com/DimKaisaris/Student-Chess-Games/blob/main/Presentation/Rapid%20Games%20presentation(%20tzimask).pptx)
+To Share the results I created a **[presentation](https://github.com/DimKaisaris/Student-Chess-Games/blob/main/Presentation/Rapid%20Games%20presentation(%20tzimask).pptx)**
 
