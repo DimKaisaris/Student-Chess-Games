@@ -14,3 +14,6 @@ a cool script to import them in google sheets!
 The data shown are completely raw as downloaded in .xlsx. You can access them in this link **[Link](https://github.com/DimKaisaris/Student-Chess-Games/blob/main/Raw%20Files/Copy%20of%20lichess.org.xlsx)** 
 
 ![Raw Data](Images/Raw_Data.png)
+
+To clean the data I follow the steps from the **[Copy of Cleaning Log](https://github.com/DimKaisaris/Student-Chess-Games/blob/main/Processed%20Files/Copy%20of%20Cleaning%20Log.docx)**
+and all changes which I make during the Process and Analysis Phases I record them in the **[Change Log Tzimas.K](https://github.com/DimKaisaris/Student-Chess-Games/blob/main/Processed%20Files/Change%20Log%20Tzimas.K.docx)**
