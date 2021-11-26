@@ -17,3 +17,8 @@ The data shown are completely raw as downloaded in .xlsx. You can access them in
 
 To clean the data I follow the steps from the **[Copy of Cleaning Log](https://github.com/DimKaisaris/Student-Chess-Games/blob/main/Processed%20Files/Copy%20of%20Cleaning%20Log.docx)**
 and all changes which I make during the Process and Analysis Phases I record them in the **[Change Log Tzimas.K](https://github.com/DimKaisaris/Student-Chess-Games/blob/main/Processed%20Files/Change%20Log%20Tzimas.K.docx)**
+
+## Analysis Phase 
+To extract valuable information, many simple and advanced functions were used. Many charts and pivot tables were created as well.
+Take a look at the final spreadsheet as uploaded in .xlsx format if you wish **[Rapid Games(K. Tzimas)](https://github.com/DimKaisaris/Student-Chess-Games/blob/main/Processed%20Files/Rapid%20Games%20(K.%20Tzimas).xlsx)**
+
