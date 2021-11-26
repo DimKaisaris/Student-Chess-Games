@@ -26,3 +26,9 @@ Here's is some images.
 ### 1)Elo Graph
 ![Elo Progress](Images/ELO_PROGRESS.png)
 
+### 2) Games as White
+![Games as White](Images/GAMES_AS_WHITE.png)
+
+### 3) Openings as White
+![Opening as white](Images/Opening_as_White.png)
+
