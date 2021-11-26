@@ -24,5 +24,5 @@ Take a look at the final spreadsheet as uploaded in .xlsx format if you wish **[
 Here's is some images.
 
 ### 1)Elo Graph
-![Elo Progress](Images/ELO_PROGESS)
+![Elo Progress](Images/ELO_PROGESS.png)
 
