@@ -34,7 +34,7 @@ Here's some images.
 
 ## Share Phase
 To Share the results I created a **[presentation](https://github.com/DimKaisaris/Student-Chess-Games/blob/main/Presentation/Rapid%20Games%20presentation(%20tzimask).pptx)**
-and a dashbpard in DataStudio. Use [Link](https://datastudio.google.com/reporting/ab756547-d965-45d4-8413-0c212b0b4f1e/page/qK2eC) to visit!
+and a dashboard in DataStudio. Use [Link](https://datastudio.google.com/reporting/ab756547-d965-45d4-8413-0c212b0b4f1e/page/qK2eC) to visit!
 
 ![DashBoard](Images/DashBoard.png)
 
