@@ -36,7 +36,7 @@ Here's some images.
 ## Share Phase
 To share the analysis results, I developed the following: 
 Presentation: A presentation detailing the key findings, available here:  **[presentation](https://github.com/DimKaisaris/Student-Chess-Games/blob/main/Presentation/Rapid%20Games%20presentation(%20tzimask).pptx)**
-Interactive Dashboard: An interactive dashboard in Google Data Studio, accessible via this link:  [Link](https://datastudio.google.com/reporting/ab756547-d965-45d4-8413-0c212b0b4f1e/page/qK2eC) 
+Interactive Dashboard: An interactive dashboard in Power BI, accessible via this link:  [Link](https://datastudio.google.com/reporting/ab756547-d965-45d4-8413-0c212b0b4f1e/page/qK2eC) 
 
 ![DashBoard](Images/DashBoard.png)
 
