@@ -6,7 +6,7 @@ This project focuses on analyzing my student's performance in rapid chess games.
 - Overall Performance Evaluation: Assessing the student's progress and game outcomes.
 - Elo Rating and Win Rate Visualization: Creating graphs and charts to display the student's Elo rating development and win/loss statistics.
 - Presentation and Interactive Dashboard: Developing a presentation and an interactive dashboard to effectively communicate the analysis findings. 
-Tools Used: Google Sheets, Google Slides, Google Data Studio, Power BI.
+Tools Used: Google Sheets, Google Slides, Power BI.
 
 ## Prepare phase
 I downloaded the game data from lichess.org. Since the games were in PGN format, I found a useful script to import them directly into Google Sheets!
