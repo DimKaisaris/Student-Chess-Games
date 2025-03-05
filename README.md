@@ -38,7 +38,7 @@ To share the analysis results, I developed the following:
 Presentation: A presentation detailing the key findings, available here:  **[presentation](https://github.com/DimKaisaris/Student-Chess-Games/blob/main/Presentation/Rapid%20Games%20presentation(%20tzimask).pptx)**
 Interactive Dashboard: An interactive dashboard in Power BI, accessible via this link:  **[Power BI](https://github.com/DimKaisaris/Student-Chess-Games/blob/main/Processed%20Files/Tzim_PBI.pbix)**
 
-![DashBoard](Images/DashBoard.png)
+![DashBoard](Images/PBI.png)
 
 
 
